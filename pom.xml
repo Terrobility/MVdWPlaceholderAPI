@@ -12,11 +12,6 @@
 			<name>Public Repositories</name>
 			<url>http://repo.mvdw-software.be/content/groups/public/</url>
 		</repository>
-		<repository>
-			<id>mvdw-software</id>
-			<name>Private Projects</name>
-			<url>http://repo.mvdw-software.be/content/groups/private-group/</url>
-		</repository>
 	</repositories>
 	<dependencies>
 		<dependency>
@@ -26,8 +21,8 @@
 		</dependency>
 		<dependency>
 			<groupId>org.spigotmc</groupId>
-			<artifactId>spigot</artifactId>
-			<version>1.9</version>
+			<artifactId>spigot-api</artifactId>
+			<version>1.12.2-R0.1-SNAPSHOT</version>
 		</dependency>
 	</dependencies>
 	<build>
