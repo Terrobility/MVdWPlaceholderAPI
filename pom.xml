@@ -8,6 +8,10 @@
 	<description>Placeholder API for MVdW Software plugins</description>
 	<repositories>
 		<repository>
+			<id>spigot-repo</id>
+			<url>https://hub.spigotmc.org/nexus/content/repositories/snapshots/</url>
+		</repository>
+		<repository>
 			<id>public</id>
 			<name>Public Repositories</name>
 			<url>http://repo.mvdw-software.be/content/groups/public/</url>
